@@ -1,10 +1,10 @@
 # Ressources:
-https://www.youtube.com/watch?v=DTIYVffhJuU
+https://www.youtube.com/watch?v=DTIYVffhJuU  
 
-/!\ external library will be used in this app.
-Please use the configuration in package-lock.json:
-        "angular-in-memory-web-api": "0.13.0",
-        "angular V13.2"
+/!\ external library will be used in this app.  
+Please use the configuration in package-lock.json:  
+        "angular-in-memory-web-api": "0.13.0",  
+        "angular V13.2"  
 
 
 ## Pokemon
