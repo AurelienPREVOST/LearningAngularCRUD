@@ -1,0 +1,32 @@
+<nav>
+    <div class="nav-wrapper teal">
+        <a href="#" class="brand-logo center">
+            Pokédex
+        </a>
+    </div>
+</nav>
+<!-- <input 
+    #truc
+    (keyup.enter)="selectPokemon(truc.value)"
+    type="number"
+/>
+<p *ngIf="pokemonSelected">
+    Vous avez selectionnez : {{ pokemonSelected?.name }}
+</p>
+<p *ngIf="!pokemonSelected">
+    Aucun pokemon trouvé
+</p> -->
+
+<!-- OU AUTRE SYNTAXE
+    <ng-container *ngIf="pokemonSelected; else noPokemon">
+    <p>Vous avez sélectionné : {{ pokemonSelected.name }}</p>
+</ng-container>
+
+<ng-template #noPokemon>
+    <p>Aucun Pokémon trouvé</p>
+</ng-template> -->
+
+<router-outlet></router-outlet>
+
+
+

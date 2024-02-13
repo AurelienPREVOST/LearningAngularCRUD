@@ -1,3 +1,14 @@
+
+Ressources:
+https://www.youtube.com/watch?v=DTIYVffhJuU
+
+/!\ external library will be used in this app.
+Please use the configuration in package-lock.json:
+        "angular-in-memory-web-api": "0.13.0",
+        "angular V13.2"
+
+
+
 # Pokemon
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
